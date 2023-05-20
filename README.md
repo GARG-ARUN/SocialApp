@@ -1,5 +1,5 @@
 # socialApp
-It is a full stack web application, to start with this clone this repository.
+It is a full stack web application, to start with this clone this repository.<hr>
 Move to each and evry folder and do npm i (to install all the dependencies)
 now npm start
 in backend folder to start the backserver
